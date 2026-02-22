@@ -1,21 +1,45 @@
-MIT License
+Business Source License 1.1
 
-Copyright (c) 2023 Opentensor
+Licensed Work: Nanashi IA, Mumei Protocol, tous les smart contracts, agents, documentation et code source dans ce dépôt
+Change Date: 20 février 2030 (4 ans à partir du 21 février 2026)
+Licensor: NanashiOS-Lab
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Definitions
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+"Licensed Work" means the software, code, documentation, smart contracts, designs, logos, slogans, and any other materials made available under this license.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+"Change Date" means 20 February 2030.
+
+"Commercial Use" means any use for commercial advantage or monetary compensation, including but not limited to: SaaS, revente, intégration dans un produit payant, cloud service, fork à but lucratif, utilisation dans une entreprise pour générer des revenus.
+
+2. License Grant
+
+Licensor hereby grants you the right to copy, modify, and distribute the Licensed Work, provided that such use is not Commercial Use before the Change Date.
+
+3. Commercial Use Restriction
+
+Commercial Use of the Licensed Work is expressly prohibited until the Change Date or until you obtain a separate commercial license from NanashiOS-Lab.
+
+4. Copyright and Trademark Protection
+
+Copyright © 2026 NanashiOS-Lab. Tous droits réservés.
+
+Le nom « Nanashi IA », « Mumei Protocol », le logo (fantôme 👻 avec bouclier 🛡️), le slogan « Pas de nom. Pas de trace. Contrôle total. », ainsi que l’ensemble du design original, de l’identité visuelle et conceptuelle sont protégés par le droit d’auteur et le droit des marques.
+
+Toute utilisation non autorisée du nom, logo, slogan, design ou marque sera poursuivie conformément au Code de la propriété intellectuelle.
+
+5. Disclaimer
+
+THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+6. Contact for Commercial License
+
+For any request for a commercial license or permission to use the Licensed Work for Commercial Use before the Change Date, contact:  
+nanashia256@gmail.com
+
+7. Full License Text Reference
+
+For the complete and official text of the Business Source License 1.1, see:  
+https://mariadb.com/bsl11/
+
+© 2026 NanashiOS-Lab. Tous droits réservés.
